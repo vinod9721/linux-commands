@@ -1,2 +1,2 @@
 # linux-commands
-# downloads postmen "sudo snap install postman"
+# downloads postman "sudo snap install postman"
